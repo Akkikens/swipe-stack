@@ -1,0 +1,12 @@
+{
+  "baseSwayDeg": 1.6,
+  "swayPerLevel": 0.3,
+  "swayCapDeg": 9.0,
+  "perfectShrinkPct": 2.5,
+  "minBlockWidthPx": 28,
+  "missTolerancePxStart": 8,
+  "missTolerancePxEnd": 3,
+  "perfectSlowMo": 0.35,
+  "slowMoMinStreak": 3,
+  "revivePerRun": 1
+}
