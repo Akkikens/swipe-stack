@@ -9,9 +9,10 @@
     "android": "expo run:android"
   },
   "dependencies": {
+    "@types/react": "~18.2.79",
     "expo": "~51.0.0",
-    "expo-haptics": "~13.0.0",
     "expo-av": "~14.0.4",
+    "expo-haptics": "~13.0.0",
     "react": "18.2.0",
     "react-native": "0.74.0",
     "react-native-webview": "^13.8.4",
