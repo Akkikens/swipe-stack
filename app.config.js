@@ -21,6 +21,7 @@ module.exports = {
         icon: "./assets/notification-icon.png",
         color: "#7C3AED"
       }
-    }
+    },
+    plugins: []
   }
 };

@@ -1,0 +1,4 @@
+{
+  // Babel configuration
+  "presets": ["babel-preset-expo"]
+}
